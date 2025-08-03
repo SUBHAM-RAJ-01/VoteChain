@@ -72,7 +72,7 @@ This project is currently under active development. Contributions, suggestions, 
 
 ## 👤 Developer
 
-**Subham** - Full Stack Blockchain Developer  
+**Subham** 
 📅 Development started: August 2025
 
 ## 📄 License
